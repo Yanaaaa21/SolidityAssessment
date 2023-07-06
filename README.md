@@ -19,5 +19,5 @@ What are the conditions that must be met for this to function? A Ethereum enviro
 * You can repeat the steps to mint or burn more tokens as needed.
 Remember to review the details of the functions and provide the correct parameters to ensure successful execution.
 ## Authors
-·Liana Claire N. Peñones
-·Liana Claire Peñones (https://www.facebook.com/michaaaaaaaaan)
+* Liana Claire N. Peñones
+* Liana Claire Peñones (https://www.facebook.com/michaaaaaaaaan)
